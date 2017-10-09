@@ -5,7 +5,6 @@ git add -A
 git commit -m "first commit"
 git remote add origin $2
 git push -u origin master
-
-sudo cp ./my.cnf /etc/my.cnf
-sudo service mysql restart
-
+git clone https://github.com/getty104/tools.git
+cd tools
+./copy_file.sh
