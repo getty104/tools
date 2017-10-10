@@ -1,1 +1,1 @@
-sudo cat etc/mysql/debian.cnf
+sudo cat /etc/mysql/debian.cnf
