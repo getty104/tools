@@ -1,0 +1,8 @@
+#sshキー
+.ssh/
+
+#bash系
+.bash_history
+.bash_logout
+.bashrc
+.profile
