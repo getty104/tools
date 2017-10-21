@@ -3,3 +3,4 @@ git checkout $1
 #Gemfileのあるとこまで移動
 cd webapp/ruby
 bundle install
+./restart.sh
