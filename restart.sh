@@ -1,4 +1,4 @@
-sudo rm /var/log/nginx/isucon5.access_log.tsv
+sudo rm /var/log/nginx/isucon7.access_log.tsv
 sudo rm /var/lib/mysql/mysqld-slow.log
 
 sudo service nginx restart
