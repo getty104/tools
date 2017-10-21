@@ -5,5 +5,5 @@ sudo service nginx restart
 sudo service mysql restart
 sudo service isuxi.ruby restart
 
-sudo sar 1 200 > sar-cpu.log &
-sudo sar -r 1 200 > sar-mem.log &
+sudo sar 1 200 > ~/log/sar-cpu.log &
+sudo sar -r 1 200 > ~/log/sar-mem.log &
